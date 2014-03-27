@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\StartScene.js">
+    <Files>
+      <File FileName="Assets\Script\EndScene.js" Line="9" Column="20" />
+      <File FileName="Assets\Script\EventReminder.js" Line="48" Column="30" />
+      <File FileName="Assets\Script\GameMenu.js" Line="76" Column="48" />
+      <File FileName="Assets\Script\StartScene.js" Line="47" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

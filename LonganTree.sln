@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2414AEC6-10E5-E482-8721-F14E2F43DAB8}") = "LonganTree", "Assembly-CSharp-firstpass.csproj", "{A506A183-1801-F0B0-8D2B-E2D623F603DA}"
+EndProject
+Project("{2414AEC6-10E5-E482-8721-F14E2F43DAB8}") = "LonganTree", "Assembly-UnityScript.unityproj", "{1106B93F-A5F9-7A32-F3F9-76920C5E643C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A506A183-1801-F0B0-8D2B-E2D623F603DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A506A183-1801-F0B0-8D2B-E2D623F603DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A506A183-1801-F0B0-8D2B-E2D623F603DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A506A183-1801-F0B0-8D2B-E2D623F603DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1106B93F-A5F9-7A32-F3F9-76920C5E643C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1106B93F-A5F9-7A32-F3F9-76920C5E643C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1106B93F-A5F9-7A32-F3F9-76920C5E643C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1106B93F-A5F9-7A32-F3F9-76920C5E643C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																																																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
